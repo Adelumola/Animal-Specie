@@ -1,0 +1,46 @@
+.animalCon{
+    height: 40px;
+}
+
+.paddingPagetop{
+    padding: 40px;
+}
+
+
+.cardcon{
+    width: 250px;
+    padding: 20px;
+}
+
+.adminform{
+    margin: auto;
+    width:500px;
+    padding: 50px
+
+    
+}
+
+.Editcon{
+margin: auto;
+width:600px;
+padding-left: 20px;
+
+}
+
+.signupCon{
+
+    padding-top:40px;
+    margin-left: 500px;
+     padding-right:200px
+   
+}
+
+.zoom {
+
+    transition: transform .2s; /* Animation */
+    margin: 0 auto;
+  }
+  
+  .zoom:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }

@@ -1,0 +1,148 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Monkey",
+      "lifeSpan": "120 years",
+      "species": "mammals",
+      "imgUrl": "img/monkeye.jpg",
+      "description": "some dummy text"
+    },
+    {
+      "id": 2,
+      "name": "Goat",
+      "lifeSpan": "4 years",
+      "species": "mammals",
+      "imgUrl": "img/babygoat.jpg",
+      "description": "some dummy text"
+    },
+    {
+      "id": 3,
+      "name": "Tiger",
+      "lifeSpan": "120 years",
+      "species": "Birds",
+      "imgUrl": "img/tigg.jpg",
+      "description": "some dummy text"
+    },
+    {
+      "id": 4,
+      "name": "Zebra",
+      "lifeSpan": "10 years",
+      "species": "mammals",
+      "imgUrl": "img/zebra.jpg",
+      "description": "some dummy text"
+    },
+    {
+      "id": 5,
+      "name": "Rhino",
+      "lifeSpan": "05 years",
+      "species": "mammals",
+      "imgUrl": "img/rhino.jpg",
+      "description": "some dummy text"
+    },
+    {
+      "id": 6,
+      "name": "Orangutan",
+      "lifeSpan": "12 years",
+      "species": "mammals",
+      "imgUrl": "img/orangutan.jpg",
+      "description": "some dummy text"
+    },
+    {
+      "id": 7,
+      "name": "Capybara",
+      "lifeSpan": "120 years",
+      "species": "mammals",
+      "imgUrl": "img/capybara.jpg",
+      "description": "some dummy text"
+    },
+    {
+      "id": 8,
+      "name": "Giraffe",
+      "lifeSpan": "120 years",
+      "species": "mammals",
+      "imgUrl": "img/girrafe.jpg",
+      "description": "some dummy text"
+    },
+    {
+      "id": 9,
+      "name": "Hippopotamus",
+      "lifeSpan": "120 years",
+      "species": "mammals",
+      "imgUrl": "img/hippo.jpg",
+      "description": "some dummy text"
+    },
+    {
+      "id": 10,
+      "name": "Rabbit",
+      "lifeSpan": "120 years",
+      "species": "mammals",
+      "imgUrl": "img/rabbits.jpg",
+      "description": "some dummy text"
+    },
+    {
+      "id": 11,
+      "name": "Tortise",
+      "lifeSpan": "120 years",
+      "species": "mammals",
+      "imgUrl": "img/tortise.jpg",
+      "description": "some dummy text"
+    },
+    {
+      "id": 12,
+      "name": "ALLIGATOR",
+      "lifeSpan": "120 years",
+      "species": "Reptiles",
+      "imgUrl": "img/alligator.jpg",
+      "description": "some dummy text"
+    },
+    {
+      "id": 13,
+      "name": "American Bull Frog",
+      "lifeSpan": "120 years",
+      "species": "Amphibians",
+      "imgUrl": "img/monkeye.jpg",
+      "description": "some dummy text"
+    },
+    {
+      "id": 14,
+      "name": "Southern Rockhopper Peguin",
+      "lifeSpan": "120 years",
+      "species": "Birds",
+      "imgUrl": "img/southernrochker.jpg",
+      "description": "some dummy text"
+    },
+    {
+      "id": 15,
+      "name": "Snake",
+      "lifeSpan": "120 years",
+      "species": "mammals",
+      "imgUrl": "img/snake.jpg",
+      "description": "some dummy text"
+    },
+    {
+      "id": 16,
+      "name": "Barred Owl",
+      "lifeSpan": "120 years",
+      "species": "Birds",
+      "imgUrl": "img/owl.jpg",
+      "description": "some dummy text"
+    },
+    {
+      "id": 17,
+      "name": "Ostich",
+      "lifeSpan": "120 years",
+      "species": "Birds",
+      "imgUrl": "img/ostrich.jpg",
+      "description": "some dummy text"
+    },
+    {
+      "id": 18,
+      "name": "Cranes",
+      "lifeSpan": "120 years",
+      "species": "Birds",
+      "imgUrl": "img/cranes.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ullamco"
+    }
+  ]
+}
